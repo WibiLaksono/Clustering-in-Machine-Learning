@@ -1,0 +1,7 @@
+ucimlrepo==0.0.3
+numpy
+matplotlib
+seaborn
+scikit-learn
+pandas
+jupyter
